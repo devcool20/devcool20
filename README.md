@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GoLang, React-Native**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Typescript**
 
 - 📫 How to reach me **sharmadivyanshu265@gmail.com**
 
