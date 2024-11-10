@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [stocker](https://github.com/devcool20/stocker)
 
-- 🌱 I’m currently learning **GoLang, React-Native**
+- 🌱 I’m currently learning **Machine Learning, React-Native**
 
 - 💬 Ask me about **Typescript**
 
