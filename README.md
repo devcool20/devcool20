@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Sharma</h1>
-<h3 align="center">A passionate Mobile Aplication Developer from India</h3>
+<h3 align="center">A passionate Mobile and Web Aplication Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcool20&label=Profile%20views&color=b40e6f&style=flat" alt="devcool20" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [stocker](https://github.com/devcool20/stocker)
 
-- 🌱 I’m currently learning **Machine Learning, React-Native and Go-Lang**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Typescript**
 
