@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/divyanshush" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshush?logo=twitter&style=for-the-badge" alt="divyanshush" /></a> </p>
 
-- 🔭 I’m currently working on [stocker](https://github.com/devcool20/stocker)
+- 🔭 I’m currently working on [stocker](https://github.com/devcool20/stocker) and [projectf1](https://github.com/devcool20/projectf1)
 
 - 🌱 I’m currently learning **Machine Learning**
 
