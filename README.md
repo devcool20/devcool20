@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [stocker](https://github.com/devcool20/stocker) and [projectf1](https://github.com/devcool20/projectf1)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Backend**
 
-- 💬 Ask me about **Typescript**
+- 💬 Ask me about **Typescript and Python**
 
 - 📫 How to reach me **sharmadivyanshu265@gmail.com**
 
