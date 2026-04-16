@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/divyanshush" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshush?logo=twitter&style=for-the-badge" alt="divyanshush" /></a> </p>
 
-- 🔭 I’m currently working on [FinStream](https://github.com/devcool20/fin-stream) and [projectf1](https://github.com/devcool20/projectf1)
+- 🔭 I’m currently working on [LoQL](https://github.com/devcool20/loql-web) and [projectf1](https://github.com/devcool20/projf1)
 
 - 🌱 I’m currently learning **Machine Learning and Backend**
 
