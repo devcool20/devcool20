@@ -1,6 +1,17 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Sharma</h1>
-<h3 align="center">A passionate Mobile and Web Aplication Developer from India</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjA2NzI4YjU4ODVhZWNmZjY0Y2UwY2QzNzllNDc0YTY2ZDJhZmQzNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9Igh51N9W7xK8Nuo/giphy.gif" width="100%" alt="F1 GIF" />
 
+  <h1 align="center">🏎️ DIVYANSHU SHARMA (DEVCOOL20) 🏁</h1>
+  <p align="center">
+    <strong>FULL-STACK ENGINEER // AERODYNAMICS ENTHUSIAST // INDEPENDENT CONSTRUCTOR</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/devcool20"><img src="https://img.shields.io/badge/TEAM-Vercel%20AMG%20Petronas-151515?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="Team" /></a>
+    <img src="https://img.shields.io/badge/BASE-India-151515?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=E10600" alt="Base" />
+    <img src="https://img.shields.io/badge/STATUS-DRS%20ENABLED-151515?style=for-the-badge&logo=codewars&logoColor=white&labelColor=E10600" alt="Status" />
+  </p>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcool20&label=Profile%20views&color=b40e6f&style=flat" alt="devcool20" /> </p>
 
 <p align="left"> <a href="https://twitter.com/divyanshush" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshush?logo=twitter&style=for-the-badge" alt="divyanshush" /></a> </p>
@@ -22,20 +33,6 @@
 <a href="https://hashnode.com/@divvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divvv" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devcool20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devcool20" height="30" width="40" /></a>
 </p>
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjA2NzI4YjU4ODVhZWNmZjY0Y2UwY2QzNzllNDc0YTY2ZDJhZmQzNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9Igh51N9W7xK8Nuo/giphy.gif" width="100%" alt="F1 GIF" />
-
-  <h1 align="center">🏎️ DIVYANSHU SHARMA (DEVCOOL20) 🏁</h1>
-  <p align="center">
-    <strong>FULL-STACK ENGINEER // AERODYNAMICS ENTHUSIAST // INDEPENDENT CONSTRUCTOR</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/devcool20"><img src="https://img.shields.io/badge/TEAM-Vercel%20AMG%20Petronas-151515?style=for-the-badge&logo=github&logoColor=white&labelColor=E10600" alt="Team" /></a>
-    <img src="https://img.shields.io/badge/BASE-India-151515?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=E10600" alt="Base" />
-    <img src="https://img.shields.io/badge/STATUS-DRS%20ENABLED-151515?style=for-the-badge&logo=codewars&logoColor=white&labelColor=E10600" alt="Status" />
-  </p>
-</div>
 
 <br/>
 
