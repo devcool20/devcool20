@@ -1,0 +1,125 @@
+<svg width="100%" max-width="600" height="160" viewBox="0 0 600 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Glow filters for CFD Streamlines -->
+    <filter id="cfd-red-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="cfd-cyan-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes wind-flow-fast {
+      from { stroke-dashoffset: 400; }
+      to { stroke-dashoffset: 0; }
+    }
+    @keyframes rotate-tire {
+      from { transform: rotate(360deg); }
+      to { transform: rotate(0deg); }
+    }
+    .streamline-cyan {
+      stroke: #00F0FF;
+      stroke-dasharray: 40, 180;
+      animation: wind-flow-fast 1.2s linear infinite;
+      filter: url(#cfd-cyan-glow);
+    }
+    .streamline-red {
+      stroke: #FF1801;
+      stroke-dasharray: 30, 150;
+      animation: wind-flow-fast 0.9s linear infinite;
+      filter: url(#cfd-red-glow);
+    }
+    .streamline-blue {
+      stroke: #0077FF;
+      stroke-dasharray: 50, 200;
+      animation: wind-flow-fast 1.5s linear infinite;
+    }
+    .rear-wheel-rotate {
+      transform-origin: 160px 105px;
+      animation: rotate-tire 0.3s linear infinite;
+    }
+    .front-wheel-rotate {
+      transform-origin: 410px 105px;
+      animation: rotate-tire 0.3s linear infinite;
+    }
+  </style>
+
+  <!-- Background panel -->
+  <rect width="600" height="160" rx="12" fill="#070A0F" stroke="#1b2433" stroke-width="1.5"/>
+
+  <!-- Telemetry and Grid lines -->
+  <path d="M 0,20 L 600,20 M 0,40 L 600,40 M 0,60 L 600,60 M 0,80 L 600,80 M 0,100 L 600,100 M 0,120 L 600,120 M 0,140 L 600,140" stroke="#0f1624" stroke-width="0.5"/>
+  <path d="M 50,0 L 50,160 M 100,0 L 100,160 M 150,0 L 150,160 M 200,0 L 200,160 M 250,0 L 250,160 M 300,0 L 300,160 M 350,0 L 350,160 M 400,0 L 400,160 M 450,0 L 450,160 M 500,0 L 500,160 M 550,0 L 550,160" stroke="#0f1624" stroke-width="0.5"/>
+
+  <!-- Telemetry text elements -->
+  <text x="25" y="25" fill="#00F0FF" font-family="monospace" font-size="8" letter-spacing="1">WIND TUNNEL: ON</text>
+  <text x="140" y="25" fill="#8B949E" font-family="monospace" font-size="8" letter-spacing="1">VELOCITY: 320 KM/H</text>
+  <text x="290" y="25" fill="#8B949E" font-family="monospace" font-size="8" letter-spacing="1">DRAG COEFF: 0.32</text>
+  <text x="440" y="25" fill="#FF1801" font-family="monospace" font-size="8" letter-spacing="1">AERO EFFICIENCY: MAX</text>
+
+  <!-- CFD Streamlines (Flowing right to left) -->
+  <!-- Streamline 1: Over the top airbox and rear wing -->
+  <path d="M 600,35 C 520,38 470,55 450,58 C 420,62 380,50 330,42 C 280,34 230,30 200,50 C 170,68 140,50 120,48 C 100,46 80,75 0,85" fill="none" stroke-width="1.5" class="streamline-cyan"/>
+  <!-- Streamline 2: Over the front wing, underbody, and diffuser -->
+  <path d="M 600,90 C 510,95 470,118 450,122 C 430,126 410,102 380,105 C 350,108 300,106 270,108 C 240,110 200,116 170,118 C 140,120 100,122 0,128" fill="none" stroke-width="1.2" class="streamline-blue"/>
+  <!-- Streamline 3: Aggressive sidepod undercut flow -->
+  <path d="M 600,65 C 500,70 460,88 440,92 C 420,96 390,72 360,75 C 330,78 290,76 260,78 C 230,80 190,86 160,88 C 130,90 90,92 0,95" fill="none" stroke-width="1.5" class="streamline-red"/>
+
+  <!-- Car Floor Line -->
+  <line x1="100" y1="123" x2="480" y2="123" stroke="#222c3d" stroke-width="2"/>
+
+  <!-- F1 Car Silhouette -->
+  <!-- Main Body path -->
+  <path d="M 475,123 L 470,118 L 450,118 L 442,108 L 432,108 L 430,116 L 398,116 L 388,98 L 350,95 L 320,95 L 305,74 L 270,74 L 258,66 L 225,66 L 212,86 L 150,90 L 138,116 L 122,116 L 122,72 L 98,72 L 98,123 Z" fill="#0C1017" stroke="#FF1801" stroke-width="2"/>
+  
+  <!-- Rear Wing flap -->
+  <line x1="104" y1="78" x2="120" y2="78" stroke="#FF1801" stroke-width="2"/>
+  <!-- Front Wing flap -->
+  <line x1="452" y1="113" x2="468" y2="113" stroke="#FF1801" stroke-width="1.5"/>
+
+  <!-- Rear Wheel (cx=160, cy=105) -->
+  <g>
+    <!-- Outer tire -->
+    <circle cx="160" cy="105" r="18" fill="#0a0a0f" stroke="#1f293d" stroke-width="1"/>
+    <!-- Rim -->
+    <circle cx="160" cy="105" r="11" fill="#15151f" stroke="#FF1801" stroke-width="1"/>
+    <!-- Rotating spokes -->
+    <g class="rear-wheel-rotate">
+      <line x1="160" y1="94" x2="160" y2="116" stroke="#3c4961" stroke-width="1.5"/>
+      <line x1="149" y1="105" x2="171" y2="105" stroke="#3c4961" stroke-width="1.5"/>
+      <line x1="152" y1="97" x2="168" y2="113" stroke="#3c4961" stroke-width="1"/>
+      <line x1="152" y1="113" x2="168" y2="97" stroke="#3c4961" stroke-width="1"/>
+    </g>
+    <!-- Hub cap -->
+    <circle cx="160" cy="105" r="4" fill="#ffffff"/>
+  </g>
+
+  <!-- Front Wheel (cx=410, cy=105) -->
+  <g>
+    <!-- Outer tire -->
+    <circle cx="410" cy="105" r="18" fill="#0a0a0f" stroke="#1f293d" stroke-width="1"/>
+    <!-- Rim -->
+    <circle cx="410" cy="105" r="11" fill="#15151f" stroke="#FF1801" stroke-width="1"/>
+    <!-- Rotating spokes -->
+    <g class="front-wheel-rotate">
+      <line x1="410" y1="94" x2="410" y2="116" stroke="#3c4961" stroke-width="1.5"/>
+      <line x1="399" y1="105" x2="421" y2="105" stroke="#3c4961" stroke-width="1.5"/>
+      <line x1="402" y1="97" x2="418" y2="113" stroke="#3c4961" stroke-width="1"/>
+      <line x1="402" y1="113" x2="418" y2="97" stroke="#3c4961" stroke-width="1"/>
+    </g>
+    <!-- Hub cap -->
+    <circle cx="410" cy="105" r="4" fill="#ffffff"/>
+  </g>
+
+  <!-- Ground Line -->
+  <line x1="0" y1="124" x2="600" y2="124" stroke="#FF1801" stroke-width="1"/>
+</svg>
