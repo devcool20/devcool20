@@ -83,11 +83,18 @@
 
 ### 📊 PERFORMANCE METRICS (Telemetry)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcool20&show_icons=true&theme=gotham&hide_border=true&title_color=E10600&icon_color=E10600&text_color=ffffff&bg_color=151515" width="48%" alt="devcool20's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcool20&theme=gotham&hide_border=true&title_color=E10600&icon_color=E10600&text_color=ffffff&bg_color=151515&ring=E10600&fire=E10600" width="48%" alt="devcool20's Streak Stats" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=devcool20&show_icons=true&theme=gotham&hide_border=true&title_color=E10600&icon_color=E10600&text_color=ffffff&bg_color=151515" width="100%" alt="devcool20's GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcool20&theme=gotham&hide_border=true&title_color=E10600&icon_color=E10600&text_color=ffffff&bg_color=151515&ring=E10600&fire=E10600" width="100%" alt="devcool20's Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
