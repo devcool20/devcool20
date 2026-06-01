@@ -4,7 +4,6 @@
 <img src="./f1-lights.svg" width="600" alt="F1 Starting Lights Telemetry Gantry" />
 
 # 🏎️ DIVYANSHU SHARMA (DEVCOOL20) 🏁
-**FULL-STACK ENGINEER // AERODYNAMICS ENTHUSIAST // INDEPENDENT CONSTRUCTOR**
 
 <!-- DYNAMIC TYPING TELEMETRY -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=E10600&center=true&vCenter=true&width=550&height=40&lines=DEVELOPING+HIGH-PERFORMANCE+APPLICATIONS;MAXIMIZING+AERODYNAMIC+EFFICIENCY;BOX+BOX+BOX+--+DEPLOYING+TO+PROD;PURPLE+SECTORS+ONLY" alt="Typing Telemetry" /></a>
