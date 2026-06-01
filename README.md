@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devcool20&label=Profile%20views&color=FF1801&style=flat-square" alt="devcool20 Views" />
   &nbsp;&nbsp;
-  <a href="https://twitter.com/divyanshush" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshush?logo=twitter&style=flat-square&color=1DA1F2" alt="divyanshush Follow" /></a>
+  <a href="https://x.com/iamd1v" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshush?logo=twitter&style=flat-square&color=1DA1F2" alt="divyanshush Follow" /></a>
 </p>
 
 </div>
