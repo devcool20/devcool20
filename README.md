@@ -41,7 +41,6 @@
       <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/Dart-151515?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
       <br />
       <h4>🏎️ CHASSIS (Frontend)</h4>
       <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
