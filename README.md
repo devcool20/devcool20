@@ -24,13 +24,6 @@
 
 ---
 
-### 💨 AERODYNAMICS & WIND TUNNEL SIMULATION [CFD]
-<div align="center">
-  <img src="./aero-tunnel.svg" width="600" alt="Aerodynamics CFD Wind Tunnel Simulation" />
-</div>
-
----
-
 ### 🛠️ TECH TELEMETRY
 
 <table width="100%">
