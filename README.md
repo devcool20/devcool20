@@ -1,47 +1,44 @@
 <div align="center">
-
-<!-- INLINE ANIMATED F1 PERIMETER CIRCUIT BANNER (NO EXTERNAL FILE NEEDED) -->
-<a href="https://divyanshusharma.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1000&color=E10600&center=true&vCenter=true&width=750&height=28&lines=~/divyanshu-sharma+%E2%80%94+full-stack+%C2%B7+react+native+%C2%B7+golang+infra;contributing+to+paradedb+%C2%B7+influxdb+%C2%B7+clawvisor+(yc+p26)+%C2%B7+mem0;40%2B+merged+open-source+prs+%C2%B7+purple+sectors+only" alt="telemetry header" />
-</a>
-
+  <img src="./f1-border.svg" width="100%" alt="divyanshu sharma telemetry banner" />
 </div>
+
+<br />
 
 <table width="100%">
   <tr>
-    <td width="68%" valign="top">
-      <h3>hey, i'm divyanshu 👋</h3>
+    <td width="66%" valign="top">
+      <h3>yo, i'm divyanshu 👋</h3>
       <p>
-        i'm a chill guy who likes building fast, zero-bloat products and digging into backend internals. i work across the stack as a <b>full-stack developer</b>, <b>react native engineer</b>, and <b>backend/infra engineer (golang, python, ts)</b>—shipping web & mobile experiences, high-concurrency backend workflows, and real-time systems end-to-end.
+        i'm a <b>product builder & open-source contributor</b> who likes shipping fast, zero-bloat software end-to-end. instead of boxing myself into a single language, i jump across the stack—from crafting reactive web & <b>react native</b> interfaces to diving deep into backend systems, llm proxies, and database internals.
       </p>
       <ul>
-        <li><b>open source right now:</b> hacking on database & search internals at <a href="https://github.com/paradedb/paradedb"><b>paradedb</b></a> and <a href="https://github.com/influxdata/influxdb"><b>influxdb</b></a>, with <b>40+ merged prs</b> across <a href="https://github.com/clawvisor"><b>clawvisor (yc p26)</b></a>, <a href="https://github.com/mem0ai/mem0"><b>mem0</b></a>, and <a href="https://github.com/c15t/c15t"><b>inth/c15t</b></a>.</li>
-        <li><b>where i've shipped:</b> engineered llm proxy infrastructure & high-concurrency sqlite tuning at <b>clawvisor (yc p26)</b>, built clinical dashboards & bullmq event queues for 6k+ users at <b>rockethealth</b>, and shipped ai travel engines at <b>zingvel</b>.</li>
-        <li><b>off the clock:</b> watching f1 telemetry, dialing in guitar tones (the 1975 / radiohead), and obsessing over football tactics.</li>
+        <li><b>open source (40+ merged prs):</b> heavy contributor to <a href="https://github.com/clawvisor/clawvisor"><b>clawvisor (yc p26)</b></a> (where most of my prs live), currently hacking on postgres search internals at <a href="https://github.com/paradedb/paradedb"><b>paradedb</b></a>, and shipped across <a href="https://github.com/different-ai/openwork"><b>openwork</b></a>, <a href="https://github.com/mem0ai/mem0"><b>mem0</b></a>, and <a href="https://github.com/c15t/c15t"><b>inth/c15t</b></a>.</li>
+        <li><b>industry experience:</b> built clinical dashboards, bullmq queues & aws ses/sns event pipelines at <b>rockethealth</b> (migrated 6k+ users), hardened llm proxy infra at <b>clawvisor</b>, and built ai travel engines at <b>zingvel</b>.</li>
+        <li><b>off the clock:</b> watching f1 telemetry, dialing in guitar tones (the 1975 / radiohead), and football tactics.</li>
       </ul>
       <p align="left">
         <a href="https://divyanshusharma.vercel.app/"><img src="https://img.shields.io/badge/portfolio-divyanshusharma.vercel.app-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio" /></a>
         <a href="https://x.com/iamd1v"><img src="https://img.shields.io/badge/x-@iamd1v-0d1117?style=flat-square&logo=x&logoColor=white&labelColor=161b22" alt="X" /></a>
         <a href="https://www.linkedin.com/in/divyanshu-sharma-b9b534113/"><img src="https://img.shields.io/badge/linkedin-divyanshu-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22" alt="LinkedIn" /></a>
         <a href="https://hashnode.com/@divvv"><img src="https://img.shields.io/badge/hashnode-@divvv-0d1117?style=flat-square&logo=hashnode&logoColor=2962FF&labelColor=161b22" alt="Hashnode" /></a>
-        <a href="mailto:sharmadivyanshu265@gmail.com"><img src="https://img.shields.io/badge/email-sharmadivyanshu265-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email" /></a>
-        <img src="https://komarev.com/ghpvc/?username=devcool20&label=views&color=E10600&style=flat-square" alt="Views" />
+        <a href="mailto:sharmadivyanshu265@gmail.com"><img src="https://img.shields.io/badge/email-ping_me-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22" alt="Email" /></a>
       </p>
     </td>
-    <td width="32%" valign="middle" align="center">
+    <td width="34%" valign="middle" align="center">
       <pre align="left">
-<b>┌──(divyanshu㉿telemetry)-[~]</b>
-<b>└─$</b> cat status.json
+<b>┌──(divyanshu㉿builder)-[~]</b>
+<b>└─$</b> cat profile.json
 {
-  "role": "swe / oss",
-  "focus": [
-    "fullstack",
-    "react-native",
-    "golang-infra"
+  "vibe": "builder / oss",
+  "prs_merged": "40+",
+  "main_oss": "clawvisor (yc p26)",
+  "active_at": "paradedb",
+  "ships": [
+    "web & react-native",
+    "ai agents & proxies",
+    "backend & db internals"
   ],
-  "merged_prs": "40+",
-  "drs": "enabled 🏎️",
-  "base": "delhi, in"
+  "drs": "enabled 🏎️"
 }</pre>
     </td>
   </tr>
@@ -51,76 +48,76 @@
 
 ### 🏎️ open-source & engineering log
 
-i love jumping into large production codebases, squashing concurrency bottlenecks, and shipping developer infrastructure:
+i like dropping into unfamiliar, high-velocity codebases, figuring out how they tick, and shipping real fixes:
 
-| org / repo | role & impact | stack / domain |
+| organization / repo | what i shipped & worked on | repo stack |
 | :--- | :--- | :--- |
-| 🔴 **[paradedb](https://github.com/paradedb/paradedb)** | contributing to postgres search & analytics engine internals, indexing workflows, and developer tooling. | `rust` `postgres` `search` |
-| 🟣 **[influxdata / influxdb](https://github.com/influxdata/influxdb)** | contributing to time-series database backend architecture, query processing, and infrastructure reliability. | `golang` `rust` `tsdb` |
-| 🟠 **[clawvisor (yc p26)](https://github.com/clawvisor)** | built & hardened llm proxy infra, resolved sqlite contention under **200+ req/sec** via wal & pool tuning, and shipped headless runner wait apis with token budgeting. | `ts` `python` `sqlite` `sse` |
-| 🔵 **[mem0](https://github.com/mem0ai/mem0) & [inth/c15t](https://github.com/c15t/c15t)** | merged 40+ prs across oss repos—engineering reactive dashboard surfaces, approval telemetry panels, and real-time sse stream parsers. | `react` `next.js` `ts` |
-| 🟢 **rockethealth** | full-stack dev across 5 clinical verticals; built `rocket-mail` (aws ses/sns tracking), bullmq queues (invoices/meta events), and migrated **6k+ users**. | `next.js` `bullmq` `aws` |
-| ⚪ **zingvel travels** | engineered interactive flight seat pickers, booking flows, and *wanderlust*—an ai-powered travel recommendation engine. | `react` `ts` `ai` |
+| 🔴 **[clawvisor (yc p26)](https://github.com/clawvisor/clawvisor)** | **top contributor (most merged prs)** — built & hardened llm proxy infrastructure, resolved high-concurrency sqlite contention under **200+ req/sec** (wal tuning, connection pooling, busy timeouts), added headless runner wait apis with token budgeting, and built reactive approval telemetry panels. | `golang` `sqlite` `typescript` `sse` |
+| 🟠 **[paradedb](https://github.com/paradedb/paradedb)** | **active contributor** — working on postgres BM25 search & analytics engine internals, query predicate execution, and memory/filter optimizations. | `rust` `postgresql` `search` |
+| 🟣 **[openwork (different-ai)](https://github.com/different-ai/openwork)** | contributed desktop application features, rich release note rendering, and update notification workflows. | `typescript` `react` `desktop` |
+| 🔵 **[mem0](https://github.com/mem0ai/mem0) & [inth/c15t](https://github.com/c15t/c15t)** | engineered reactive frontend surfaces, telemetry components, consent/state flows, and developer tooling across 40+ total oss prs. | `typescript` `next.js` `react` |
+| 🟢 **rockethealth** | full-stack developer across 5 clinical verticals; built `rocket-mail` with aws ses/sns event tracking, bullmq job queues (invoices, notifications, meta events), and migrated **6k+ users**. | `next.js` `bullmq` `node.js` `aws` |
+| ⚪ **zingvel travels** | built interactive flight seat pickers, responsive ticketing flows, and *wanderlust*—an ai-powered travel recommendation engine. | `react` `typescript` `ai` |
 
 ---
 
-### 🛠️ featured builds
+### 🛠️ things i've built from scratch
 
-clean ui on the outside, real systems engineering under the hood.
+projects where i owned the product design, frontend experience, and backend architecture end-to-end:
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 micromanus</h4>
       <p>
-        <b><a href="https://github.com/devcool20/micromanus">github ↗</a></b> · 
-        <b><a href="https://divyanshusharma.vercel.app/">live demo ↗</a></b>
+        <b><a href="https://github.com/devcool20">github ↗</a></b> · 
+        <b><a href="https://divyanshusharma.vercel.app/">live ↗</a></b>
       </p>
       <p>self-hosted, tenant-isolated autonomous react research agent that searches, scrapes, synthesizes, and compiles structured pdf reports.</p>
       <ul>
-        <li>built a react agent with byok provider support, <b>aes-256-gcm</b> key encryption, and precise token billing.</li>
-        <li>enforced tenant isolation via supabase rls and integrated automated stripe credit top-ups.</li>
+        <li>built a ReAct agent with byok provider support, <b>aes-256-gcm</b> key encryption, and precise token billing.</li>
+        <li>enforced tenant isolation via supabase rls and integrated stripe credit top-ups.</li>
       </ul>
-      <p><code>typescript</code> <code>next.js</code> <code>supabase</code> <code>stripe</code> <code>ai-agents</code></p>
+      <p><code>typescript</code> <code>next.js</code> <code>supabase</code> <code>stripe</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>⚖️ case vault</h4>
       <p>
-        <b><a href="https://github.com/devcool20/case-vault">github ↗</a></b> · 
-        <b><a href="https://divyanshusharma.vercel.app/">live demo ↗</a></b>
+        <b><a href="https://github.com/devcool20">github ↗</a></b> · 
+        <b><a href="https://divyanshusharma.vercel.app/">live ↗</a></b>
       </p>
-      <p>full-stack legal-tech case exploration engine with interactive case journey & lineage graph visualizations.</p>
+      <p>full-stack legal-tech case exploration platform with interactive case journey & lineage graph visualizations.</p>
       <ul>
-        <li>renders complex relationship timelines, multi-faceted search filters, and graph-style data connections for legal datasets.</li>
-        <li>powered by a high-speed <b>python fastapi</b> backend for searching and inspecting court records.</li>
+        <li>renders complex relationship timelines, search filters, and graph-style data connections for legal datasets.</li>
+        <li>backed by a <b>python fastapi</b> service for searching and inspecting court records.</li>
       </ul>
-      <p><code>next.js</code> <code>react</code> <code>python</code> <code>fastapi</code> <code>d3/recharts</code></p>
+      <p><code>next.js</code> <code>react</code> <code>python</code> <code>fastapi</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🎥 stash live</h4>
       <p>
-        <b><a href="https://github.com/devcool20/stash-live">github ↗</a></b> · 
-        <b><a href="https://divyanshusharma.vercel.app/">live demo ↗</a></b>
+        <b><a href="https://github.com/devcool20">github ↗</a></b> · 
+        <b><a href="https://divyanshusharma.vercel.app/">live ↗</a></b>
       </p>
-      <p>responsive presenter overlay suite that composites live interactive data cards directly into webcam video feeds for google meet & zoom.</p>
+      <p>responsive presenter overlay suite that composites live interactive data cards directly into webcam video for meet & zoom.</p>
       <ul>
-        <li>engineered custom hooks, dynamic canvas/modal rendering, and adaptive overlay placement.</li>
-        <li>implemented compression-aware rendering, signed image proxying, and typed <b>websocket</b> workflows.</li>
+        <li>built custom hooks and dynamic canvas/modal rendering with adaptive placement.</li>
+        <li>shipped compression-aware rendering, signed image proxying, and typed <b>websocket</b> workflows.</li>
       </ul>
       <p><code>react</code> <code>canvas/webgl</code> <code>websockets</code> <code>typescript</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>📦 loql</h4>
       <p>
-        <b><a href="https://github.com/devcool20/loql">github ↗</a></b> · 
-        <b><a href="https://divyanshusharma.vercel.app/">live demo ↗</a></b>
+        <b><a href="https://github.com/devcool20/loql-web">github ↗</a></b> · 
+        <b><a href="https://divyanshusharma.vercel.app/">live ↗</a></b>
       </p>
-      <p>cross-platform peer-to-peer rental marketplace across web and mobile with nearby discovery and real-time transaction flows.</p>
+      <p>peer-to-peer rental marketplace across web and react native with nearby discovery and real-time transaction flows.</p>
       <ul>
-        <li>architected shared custom hooks and responsive mobile flows in <b>react native</b> and web react.</li>
-        <li>implemented a secure two-way <b>qr handshake</b> protocol to verify physical item handoffs.</li>
+        <li>engineered custom hooks and responsive cross-platform flows across web and mobile.</li>
+        <li>implemented a secure two-way <b>qr handshake</b> protocol to verify item sharing.</li>
       </ul>
       <p><code>react native</code> <code>react</code> <code>typescript</code> <code>zustand</code></p>
     </td>
@@ -129,16 +126,15 @@ clean ui on the outside, real systems engineering under the hood.
 
 ---
 
-### ⚙️ tech telemetry
+### ⚡ tools i build with
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,py,react,nextjs,tailwind,redux,nodejs,fastapi,postgres,sqlite,supabase,aws,docker,git&theme=dark&perline=8" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,redux,nodejs,fastapi,postgres,sqlite,supabase,aws,docker,git&theme=dark&perline=15" alt="tech stack" />
 </div>
 
 <br />
 
 ```yaml
-languages & core   : [ golang, typescript, javascript (es6+), python, sql, html5/css3 ]
-frontend & mobile  : [ react, next.js, react native, tailwind css, zustand, redux, react query, recharts, canvas/webgl ]
-backend & infra    : [ golang, node.js, python fastapi, bullmq, websockets, sse, sqlite (wal tuning), postgresql, supabase ]
-cloud & workflow   : [ aws (ses/sns), docker, git/github, linux, cursor, claude code ]
+frontend & mobile  : [ react, next.js, react native, typescript, tailwind css, zustand, redux, react query, recharts, d3.js, canvas/webgl ]
+backend & systems  : [ node.js, python (fastapi), bullmq, websockets, sse, sqlite (wal/concurrency), postgresql, supabase, golang/rust (oss) ]
+tools & workflow   : [ git, github, aws (ses/sns), docker, cursor, claude code, figma ]
